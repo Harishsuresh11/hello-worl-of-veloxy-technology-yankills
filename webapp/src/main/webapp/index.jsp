@@ -49,7 +49,7 @@ button {
     <form>  
         <div class="container">   
             <label>Username : </label>   
-            <input type="text" placeholder="Enter student" name="studentname" required>  
+            <input type="text" placeholder="Enter student name" name="studentname" required>  
             <label>Password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
